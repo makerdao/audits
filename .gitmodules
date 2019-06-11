@@ -1,0 +1,3 @@
+[submodule "scd/bokkypoobah"]
+	path = scd/bokkypoobah
+	url = git@github.com:bokkypoobah/MakerDAOSaiContractAudit.git
